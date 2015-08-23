@@ -1,4 +1,10 @@
 {
-	'source': "/home/james/New Photos/4GB",
-	'datetype': "file"
+	'timezone': "Europe/London",
+	'source': "/home/james/PhotoDump/8GB",
+	'destination': "/home/james/photos",
+	'datetype': "file",
+	'patterns': {
+		'folder': "{year}/{month}/{day}",
+		'file': "IMG_{year}{month}{day}_{hour24}{minute}{second}_{seq}"
+	}
 }

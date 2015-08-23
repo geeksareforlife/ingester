@@ -3,3 +3,6 @@ vendor/
 
 # log
 log/main.log
+
+# sequence file, unique per user
+sequence.int
