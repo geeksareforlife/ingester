@@ -1,6 +1,6 @@
 {
 	'timezone': "Europe/London",
-	'source': "/home/james/PhotoDump/8GB",
+	'source': "/media/james/EOS_DIGITAL/DCIM/100CANON",
 	'destination': "/home/james/photos",
 	'datetype': "file",
 	'patterns': {
